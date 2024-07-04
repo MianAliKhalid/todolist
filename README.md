@@ -31,8 +31,8 @@ If you encounter any issues, please check if there's a similar issue already rep
 
 Contributors names and contact info
 
-ex. Mian Ali
-ex. [@Mianalikhalid](https://github.com/MianAliKhalid/todolist)
+Current. Mian Ali
+Link. [@Mianalikhalid](https://github.com/MianAliKhalid/todolist)
 
 ## Version History
 
